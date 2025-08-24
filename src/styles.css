@@ -24,6 +24,10 @@
     background-color: #525F6C;
     border-bottom: 1px solid #5d6a77 ;
     color: #fff;
-    transition: .5s;
+    transition: .5s
+}
 
+#menu li:hover {
+    background-color: #72DE73;
+    transform: translate(0, -10px);
 }
