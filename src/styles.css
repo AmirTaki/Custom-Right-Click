@@ -30,4 +30,5 @@
 #menu li:hover {
     background-color: #72DE73;
     transform: translate(0, -10px);
+    box-shadow: 0 10px 50px #636363;
 }
