@@ -13,3 +13,7 @@
     margin: 0;
     list-style: none;
 }
+
+#menu li i {
+    margin-right: 15px;
+}
