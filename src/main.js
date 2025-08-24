@@ -10,3 +10,6 @@ document.addEventListener("contextmenu",(event) => {
 
 })
 
+document.addEventListener("click", (e) => {
+    menu.style.display = 'none'
+})
