@@ -24,7 +24,9 @@
     background-color: #525F6C;
     border-bottom: 1px solid #5d6a77 ;
     color: #fff;
-    transition: .5s
+    transition: .5s;
+    opacity: 0;
+    animation: showmenu .5s ease-in-out 1 ;
 }
 
 #menu li:hover {
