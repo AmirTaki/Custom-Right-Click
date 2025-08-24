@@ -26,8 +26,11 @@
     color: #fff;
     transition: .5s;
     opacity: 0;
-    animation: showmenu .5s ease-in-out 1 ;
+    animation: showmenu .5s ease-in-out 1 forwards;
 }
+#menu li:nth-child(2){
+    animation-delay: .2s;
+}  
 
 #menu li:hover {
     background-color: #72DE73;
