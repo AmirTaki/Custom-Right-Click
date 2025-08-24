@@ -17,3 +17,9 @@
 #menu li i {
     margin-right: 15px;
 }
+
+#menu li {
+    padding: 20px;
+    background-color: #525F6C;
+    border-bottom: 1px solid #5d6a77 ;
+}
