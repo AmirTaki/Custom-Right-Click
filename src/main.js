@@ -1,1 +1,1 @@
-s
+const img = document.getElementById('image')
