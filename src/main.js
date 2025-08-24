@@ -1,6 +1,7 @@
 const img = document.getElementById('image')
 
-img.addEventListener("contextmenu",(e) => {
+document.addEventListener("contextmenu",(e) => {
     e.preventDefault();
-    
+
 })
+
